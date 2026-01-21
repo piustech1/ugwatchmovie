@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.eva.muno",
+        "sha256_cert_fingerprints": ["95:15:FB:02:9D:41:B6:F9:02:37:A2:53:B3:22:AC:EA:6A:AD:4A:E7:23:A5:61:59:8F:9F:03:43:AF:2F:9F:76"]
+      }
+    }]
