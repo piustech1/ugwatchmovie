@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "UgaWatch",
-  "short_name": "UgaWatch",
+  "name": "UgWatch",
+  "short_name": "UgWatch",
   "description": "Your ultimate destination for movies and series streaming",
   "start_url": "/",
   "display": "standalone",
